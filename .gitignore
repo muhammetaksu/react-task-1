@@ -1,5 +1,4 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
 # dependencies
 /node_modules
 /.pnp
@@ -21,3 +20,19 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#public
+/react-task-1/public/favicon.ico
+/react-task-1/public/logo192.png
+/react-task-1/public/logo512.png
+/react-task-1/public/manifest.json
+/react-task-1/public/robots.txt
+
+#src
+/react-task-1/src/logo.svg
+
+
+###
+
+react-task-1/package-lock.json
+react-task-1/package.json
